@@ -61,7 +61,7 @@ export default function Home() {
           WHAT WE OFFER
         </div>
         <div id="inter" className="text-[16px] sm:text-[18px] text-white font-light text-center">
-          We're committed to bringing you the best workout experience.
+          We&apos;re committed to bringing you the best workout experience.
         </div>
         <div className="mt-[60px] flex flex-col lg:flex-row items-center lg:items-stretch justify-center gap-5">
           {[
@@ -110,7 +110,7 @@ export default function Home() {
                 id="inter"
                 className="mt-[25px] w-[85%] mx-auto text-black text-[15px] text-center"
               >
-                Testimonials are short quotes from people who love your brand. It's a great way to convince customers to try your services.
+                Testimonials are short quotes from people who love your brand. It&apos;s a great way to convince customers to try your services.
                 <div className="text-left text-lg mt-[25px]">{name}</div>
               </div>
             </div>

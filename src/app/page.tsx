@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="bg-stone-950">
       {/* Tło z logo i hasłem */}
-      <div className="w-full relative h-[80vh] md:h-[90vh]  overflow-hidden">
+      <div className="w-full relative h-[70vh] md:h-[90vh]  overflow-hidden">
         <Image
           src="/b1.jpg"
           width={4933}
